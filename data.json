@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Brito patos",
+      "telephone": "11 98834 1182",
+      "favorite": true
+    },
+    {
+      "id": 2,
+      "name": "Tonny Ramos",
+      "telephone": "11 95598 1123",
+      "favorite": true
+    }
+  ]
+}
